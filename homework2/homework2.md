@@ -11,7 +11,7 @@ c.
 <a href="https://www.codecogs.com/eqnedit.php?latex=\binom{n}{120}*&space;0.1^{n}&space;*&space;0.9^{120-n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\binom{n}{120}*&space;0.1^{n}&space;*&space;0.9^{120-n}" title="\binom{n}{120}* 0.1^{n} * 0.9^{120-n}" /></a>
 
 
-d.
+d.<a href="https://www.codecogs.com/eqnedit.php?latex=P&space;=&space;1-\sum_{n=1}^{20}\binom{n}{120}0.1^{n}*0.9^{120-n}=0.0079" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P&space;=&space;1-\sum_{n=1}^{20}\binom{n}{120}0.1^{n}*0.9^{120-n}=0.0079" title="P = 1-\sum_{n=1}^{20}\binom{n}{120}0.1^{n}*0.9^{120-n}=0.0079" /></a>
 
 ### P21
 a.if use one path, the max throughput is <a href="https://www.codecogs.com/eqnedit.php?latex=max\{&space;min\{R_{1}^{1},R_{2}^{1},...,R_{N}^{1}\},min\{R_{1}^{2},R_{2}^{2},...,R_{N}^{2}&space;\}.....min\{&space;R_{1}^{M},R_{2}^{M},...,R_{N}^{M}\}&space;\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?max\{&space;min\{R_{1}^{1},R_{2}^{1},...,R_{N}^{1}\},min\{R_{1}^{2},R_{2}^{2},...,R_{N}^{2}&space;\}.....min\{&space;R_{1}^{M},R_{2}^{M},...,R_{N}^{M}\}&space;\}" title="max\{ min\{R_{1}^{1},R_{2}^{1},...,R_{N}^{1}\},min\{R_{1}^{2},R_{2}^{2},...,R_{N}^{2} \}.....min\{ R_{1}^{M},R_{2}^{M},...,R_{N}^{M}\} \}" /></a> 
